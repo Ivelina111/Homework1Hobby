@@ -3,6 +3,7 @@ package homework1.hobby;
 import java.util.Scanner;
 
 public class Hobby {
+
     public static void main(String [] args){
 
     System.out.println("Please enter your name:");
